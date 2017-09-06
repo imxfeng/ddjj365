@@ -1,4 +1,8 @@
 > # 叮咚家居后台系统使用手册
+>
+> #### http://www.ddjj365.com
+>
+> #### USER'S MANUAL
 
 ### 概述
 
